@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kandulanaveennaidu" alt="kandulanaveennaidu" /></a> </p>
 
-- 🔭 I’m currently working on [Movie-Applications](https://ai-companion-7pro.vercel.app/)
+- 🔭 I’m currently working on [Artificial intelligence](https://ai-companion-7pro.vercel.app/)
 
 - 🌱 I’m currently learning **Artificial intelligence ( AI)**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kandulanaveennaidu017@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TULn-EPQxGZNamJCHhtvv_UiUJspAv8S/view?usp=sharing](https://drive.google.com/file/d/1TULn-EPQxGZNamJCHhtvv_UiUJspAv8S/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/14yExP799LwMUN53QAaG79MzmJc5c9W9m/view?usp=sharing](https://drive.google.com/file/d/14yExP799LwMUN53QAaG79MzmJc5c9W9m/view?usp=sharing)
 
 - ⚡ Fun fact **Fun Fact #1: I can solve a Rubik's Cube in under 60 seconds!**
 
