@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kandulanaveennaidu" alt="kandulanaveennaidu" /></a> </p>
 
-- 🔭 I’m currently working on [Movie-Applications](https://dapper-starburst-bd46a6.netlify.app/)
+- 🔭 I’m currently working on [Movie-Applications](https://ai-companion-7pro.vercel.app/)
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **Artificial intelligence ( AI)**
 
 - 👯 I’m looking to collaborate on [Full Stack Social Video Blog](https://blog-application1.firebaseapp.com/)
 
 - 👨‍💻 All of my projects are available at [https://naveen-naidu.netlify.app](https://naveen-naidu.netlify.app)
 
-- 💬 Ask me about **Mern Stack**
+- 💬 Ask me about **Artificial intelligence ( AI)**
 
 - 📫 How to reach me **kandulanaveennaidu017@gmail.com**
 
