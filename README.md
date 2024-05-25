@@ -22,8 +22,10 @@ I'm Naveen Naidu, a passionate Full Stack Developer and AI Enthusiast.
 - Check out my projects and portfolio at [naveen-naidu.netlify.app](https://naveen-naidu.netlify.app)
 
 #### 📚 Areas of Expertise
-- **Full Stack Development**: Proficient in technologies like [list your tech stack].
-- **Artificial Intelligence (AI)**: Experienced in [list your AI/ML skills and expertise].
+- **Full Stack Development**: Proficient in technologies like TypeScript, NoSQL, Java, HTML, CSS, JavaScript, SQL, Power BI, D3.js, Figma, React JS, Express JS, Tailwind CSS, Redux, NodeJS, Bootstrap, jQuery, Docker (Container), Virtualization, Windows, Chart.js, Excel, Django, MongoDB, Material-UI, CI/CD, GraphQL.
+- **Additional Courses Taken**: Data Structure and Algorithms (DSA), Database Management System (DBMS), Operating Systems, Software Engineering, JavaScript, Oops Concepts.
+- **Version Control Systems**: Git, GitHub, GitLab, Bitbucket.
+- **Artificial Intelligence (AI)**: Experienced in Prompt Engineering.
 
 #### 📫 Let's Connect
 - Email: kandulanaveennaidu017@gmail.com
