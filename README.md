@@ -5,21 +5,35 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kandulanaveennaidu" alt="kandulanaveennaidu" /></a> </p>
 
-- 🔭 I’m currently working on [Artificial intelligence](https://ai-companion-7pro.vercel.app/)
+### Hi there 👋
 
-- 🌱 I’m currently learning **Artificial intelligence ( AI)**
+I'm Naveen Naidu, a passionate Full Stack Developer and AI Enthusiast.
 
-- 👯 I’m looking to collaborate on [Full Stack Social Video Blog](https://blog-application1.firebaseapp.com/)
+#### 🚀 Currently Working On
+- **Election Management Service** ([attplems.com](https://attplems.com/)) - A robust platform for managing elections efficiently.
 
-- 👨‍💻 All of my projects are available at [https://naveen-naidu.netlify.app](https://naveen-naidu.netlify.app)
+#### 🌱 Current Learning
+- **Artificial Intelligence (AI)** - Exploring the fascinating world of AI and its applications.
 
-- 💬 Ask me about **Artificial intelligence ( AI)**
+#### 👯 Looking to Collaborate
+- Full Stack Development projects, particularly those involving AI/ML integration.
 
-- 📫 How to reach me **kandulanaveennaidu017@gmail.com**
+#### 💻 Projects & Portfolio
+- Check out my projects and portfolio at [naveen-naidu.netlify.app](https://naveen-naidu.netlify.app)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14yExP799LwMUN53QAaG79MzmJc5c9W9m/view?usp=sharing](https://drive.google.com/file/d/14yExP799LwMUN53QAaG79MzmJc5c9W9m/view?usp=sharing)
+#### 📚 Areas of Expertise
+- **Full Stack Development**: Proficient in technologies like [list your tech stack].
+- **Artificial Intelligence (AI)**: Experienced in [list your AI/ML skills and expertise].
 
-- ⚡ Fun fact **Fun Fact #1: I can solve a Rubik's Cube in under 60 seconds!**
+#### 📫 Let's Connect
+- Email: kandulanaveennaidu017@gmail.com
+- LinkedIn: [Your LinkedIn Profile URL]
+- Twitter: [Your Twitter Handle]
+
+#### 📄 Experience & Education
+- [List your relevant work experience and education details]
+
+Feel free to explore my GitHub repositories and reach out if you'd like to collaborate or discuss exciting opportunities in the realms of Full Stack Development or AI!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
