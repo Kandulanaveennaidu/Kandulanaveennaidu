@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
-I'm Naveen Naidu, a passionate Full Stack Developer and AI Enthusiast.
+I'm Kandula Naveen, a passionate Full Stack Developer and AI Enthusiast.
 
 #### 🚀 Currently Working On
 - **Election Management Service** ([attplems.com](https://attplems.com/)) - A robust platform for managing elections efficiently.
@@ -29,11 +29,10 @@ I'm Naveen Naidu, a passionate Full Stack Developer and AI Enthusiast.
 
 #### 📫 Let's Connect
 - Email: kandulanaveennaidu017@gmail.com
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Handle]
+- LinkedIn: https://www.linkedin.com/in/kandulanaveen1/
 
 #### 📄 Experience & Education
-- [List your relevant work experience and education details]
+- Bachelor of Commerce - BCom (Osmania University)
 
 Feel free to explore my GitHub repositories and reach out if you'd like to collaborate or discuss exciting opportunities in the realms of Full Stack Development or AI!
 
