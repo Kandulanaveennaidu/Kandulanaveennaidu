@@ -167,3 +167,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger UI" width="40" height="40"/>
   </a>
 </p>
+
+
+<h3 align="left">Stats:</h3>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kandulanaveennaidu&show_icons=true&locale=en&layout=compact" alt="kandulanaveennaidu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kandulanaveennaidu&show_icons=true&locale=en" alt="kandulanaveennaidu" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kandulanaveennaidu&label=Profile%20views&color=0e75b6&style=flat" alt="kandulanaveennaidu" /> </p>
