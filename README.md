@@ -36,12 +36,17 @@
 - Check out my projects and portfolio at [https://naveen-portfolio-six.vercel.app/](https://naveen-portfolio-six.vercel.app/)
 
 ### 📚 Areas of Expertise
-- **Languages**: JavaScript, TypeScript, Java, HTML5, CSS3, SQL
-- **Frontend**: React.js, Redux, Next.js, Tailwind CSS, Bootstrap, Material-UI
-- **Backend**: Node.js, Express.js, Django, GraphQL, RESTful APIs
-- **Databases**: MongoDB, MySQL, PostgreSQL, Redis
-- **DevOps & Cloud**: Docker, AWS (EC2, S3, Lambda), Azure, Google Cloud Platform
-- **Tools**: Git, GitHub, GitLab, Bitbucket, Webpack, Babel, Postman, Figma, Swagger UI
+- **Languages**: [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/), [Java](https://www.java.com), [HTML5](https://www.w3.org/html/), [CSS3](https://www.w3schools.com/css/), [SQL](https://www.sqltutorial.org/sql-cheat-sheet/)
+
+- **Frontend**: [React.js](https://reactjs.org/), [Redux](https://redux.js.org), [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), [Bootstrap](https://getbootstrap.com/), [Material-UI](https://material-ui.com/)
+
+- **Backend**: [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/), [Django](https://www.djangoproject.com/), [GraphQL](https://graphql.org/), [RESTful APIs](https://restfulapi.net/)
+
+- **Databases**: [MongoDB](https://www.mongodb.com/), [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [Redis](https://redis.io/)
+
+- **DevOps & Cloud**: [Docker](https://www.docker.com/), [AWS (EC2, S3, Lambda)](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/), [Google Cloud Platform](https://cloud.google.com/)
+
+- **Tools**: [Git](https://git-scm.com/), [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/), [Webpack](https://webpack.js.org/), [Babel](https://babeljs.io/), [Postman](https://www.postman.com/), [Figma](https://www.figma.com/), [Swagger UI](https://swagger.io/)
 
 ### 📫 Let's Connect
 - **Email**: kandulanaveennaidu017@gmail.com
