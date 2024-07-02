@@ -19,7 +19,7 @@ I'm Kandula Naveen, a passionate Full Stack Developer and AI Enthusiast.
 - Full Stack Development projects, particularly those involving AI/ML integration.
 
 #### 💻 Projects & Portfolio
-- Check out my projects and portfolio at [naveen-naidu.netlify.app](https://naveen-naidu.netlify.app)
+- Check out my projects and portfolio at [https://naveen-portfolio-six.vercel.app/](https://naveen-portfolio-six.vercel.app/)
 
 #### 📚 Areas of Expertise
 - **Full Stack Development**: Proficient in technologies like TypeScript, NoSQL, Java, HTML, CSS, JavaScript, SQL, Power BI, D3.js, Figma, React JS, Express JS, Tailwind CSS, Redux, NodeJS, Bootstrap, jQuery, Docker (Container), Virtualization, Windows, Chart.js, Excel, Django, MongoDB, Material-UI, CI/CD, GraphQL.
