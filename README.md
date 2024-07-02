@@ -171,15 +171,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kandulanaveennaidu&show_icons=true&locale=en" alt="kandulanaveennaidu" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kandulanaveennaidu&label=Profile%20views&color=0e75b6&style=flat" alt="kandulanaveennaidu" /> </p>
-
-<p align="left">
-  <a href="https://github.com/kandulanaveennaidu/kandulanaveennaidu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kandulanaveennaidu&repo=kandulanaveennaidu" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/kandulanaveennaidu">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kandulanaveennaidu" alt="kandulanaveennaidu" />
-  </a>
-</p>
