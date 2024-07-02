@@ -80,9 +80,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   </a>
-  <a href="https://www.sqltutorial.org/sql-cheat-sheet/" target="_blank">
-    <img src="https://raw.githubusercontent.com/kristerkari/react-icons/main/react-icons/logo-mysql.svg" alt="SQL" width="40" height="40"/>
-  </a>
+
 
   <!-- Frontend -->
   <a href="https://reactjs.org/" target="_blank">
