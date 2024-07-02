@@ -1,8 +1,3 @@
-<!-- Replace this section with your profile picture -->
-<p align="center">
-  <img src="https://drive.google.com/file/d/1M7EJ5Syo2r7soTS7wp3Py1F_GFO7iLrK/view?usp=sharing" alt="Profile Picture" width="150" height="150" style="border-radius: 50%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Kandula Naveen</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
