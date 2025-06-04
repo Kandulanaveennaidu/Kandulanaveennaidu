@@ -1,72 +1,66 @@
-# 👋 Hi, I'm Kandula Naveen  
-## Full Stack Developer | AI Enthusiast | Scalable Systems Specialist  
+# 👋 Kandula Naveen – Full Stack Developer | AI Enthusiast | Systems Architect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kandulanaveen1/)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:kandulanaveennaidu017@gmail.com)  
-[![GitHub](https://img.shields.io/github/followers/kandulanaveennaidu?label=Follow&style=social)](https://github.com/kandulanaveennaidu)  
-🔗 Portfolio: [naveen-portfolio-six.vercel.app](https://naveen-portfolio-six.vercel.app)  
+[![Email Me](https://img.shields.io/badge/Email-kandulanaveennaidu017-red?logo=gmail)](mailto:kandulanaveennaidu017@gmail.com)  
+[![GitHub Profile](https://img.shields.io/github/followers/kandulanaveennaidu?label=Follow&style=social)](https://github.com/kandulanaveennaidu)  
+🔗 [Portfolio Website](https://naveen-portfolio-six.vercel.app)
 
 ---
 
-## 📌 Professional Summary   
-Experienced Full Stack Developer with over 3 years of expertise in building scalable web applications using modern technologies such as React.js, Node.js, Express.js, and cloud platforms like AWS and Azure. Proven track record in designing high-performance systems supporting over 1 million users, maintaining 99.9% uptime, and integrating AI-driven analytics, VoIP, and real-time APIs. Passionate about delivering robust, secure, and user-centric solutions.
+## 📌 Professional Summary 
+
+Full Stack Software Engineer with **3+ years of experience** in designing, developing, and deploying scalable web applications using **React.js**, **Node.js**, and cloud-native technologies (**AWS**, **Azure**). Expertise in building high-performance systems serving over **1 million users**, ensuring **99.9% uptime**, and integrating **AI-driven analytics**, **real-time communication**, and **multi-platform APIs**. Passionate about solving complex problems through elegant engineering and modern development practices.
+
+Open to full-stack roles, AI/ML integrations, and collaborative open-source contributions.
 
 ---
 
-## 💼 Core Skills  
+## 💼 Core Competencies
 
-### Frontend Development  
-- React.js · Redux · Next.js · TypeScript · JavaScript (ES6+)  
-- HTML5 · CSS3 · Tailwind CSS · Responsive Design  
-
-### Backend Development  
-- Node.js · Express.js · Django · RESTful APIs · GraphQL  
-
-### Databases  
-- MongoDB · PostgreSQL · Redis  
-
-### DevOps & Cloud  
-- Docker · Jenkins · CI/CD Pipelines  
-- Amazon Web Services (AWS): EC2 · S3 · Lambda  
-- Microsoft Azure · Serverless Architecture  
-
-### Security  
-- OAuth 2.0 · JWT · End-to-End Encryption · WebSockets  
+| Category             | Skills |
+|----------------------|--------|
+| **Frontend**         | React.js, Redux, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3 |
+| **Backend**          | Node.js, Express.js, Django, RESTful APIs, GraphQL, JWT Authentication |
+| **Databases**        | MongoDB, PostgreSQL, Redis, Mongoose, Sequelize |
+| **DevOps & Cloud**   | Docker, Jenkins, CI/CD pipelines, AWS (EC2, S3, Lambda), Azure, Serverless Architecture |
+| **Security**         | OAuth 2.0, WebSockets, End-to-End Encryption, HTTPS, Helmet.js |
+| **Tools & Frameworks** | Git, GitHub Actions, Postman, Swagger, VS Code, Figma |
 
 ---
 
-## 🏆 Key Achievements  
+## 🏆 Key Achievements
 
-- **Scalable Omni-Channel Platform**: Built a social media platform that increased user engagement by 40%.  
-- **High-Performance Election Management System**: Served over 500K users with 99.9% uptime during critical election cycles.  
-- **WebRTC Video Conferencing Tool**: Supported 50K+ concurrent users with <200ms latency.  
-- **API Optimization**: Reduced API response time by 30% using Redis caching and load balancing techniques.  
-
----
-
-## 💡 Recent Projects  
-
-| Project Name                  | Technologies Used         | Impact |
-|-------------------------------|---------------------------|--------|
-| Omni-Channel Social Platform  | React, Node.js, AWS       | 40% increase in user engagement; 30% faster API responses |
-| Election Management System    | Node.js, WebSockets, Redis| Maintained 99.9% uptime for 500K+ users |
-| Video Conferencing Tool       | WebRTC, Azure, E2E Encryption | 50K+ users; 25% reduced latency |
+- 🚀 **Omni-Channel Social Platform**: Built a user-centric social media app that boosted engagement by **40%**.
+- ⚡ **API Optimization**: Reduced API latency by **30%** using Redis caching and load balancing strategies.
+- 📊 **Election Management System**: Engineered a real-time election system supporting **500K+ concurrent users** with **99.9% uptime**.
+- 🎥 **WebRTC Video Conferencing Tool**: Developed a secure conferencing solution handling **50K+ users** with sub-200ms latency.
 
 ---
 
-## 🎓 Education & Certifications  
+## 💡 Featured Projects
 
-- **Bachelor of Commerce (Accounting)**  
-  Spoorthy Degree College – 7.5/10 GPA  
-
-- **Certifications**  
-  - Full Stack Web Development – Newton School  
-  - JavaScript Algorithms & Front End Libraries – freeCodeCamp  
-  - Data Visualization – freeCodeCamp  
+| Project Name                  | Tech Stack                     | Description |
+|------------------------------|--------------------------------|-------------|
+| **Omni-Channel Social Platform** | React, Node.js, AWS, Redis       | Increased user engagement by 40%, improved API speed by 30%. |
+| **Election Management System**  | Node.js, WebSockets, PostgreSQL  | Real-time updates and notifications for 500K+ users. |
+| **Video Conferencing Tool**     | WebRTC, Azure, E2E Encryption    | Scalable, secure video calling platform for enterprise use. |
 
 ---
 
-## 🛠 Tools & Technologies  
+## 🎓 Education & Certifications
+
+### Bachelor of Commerce (Accounting)  
+Spoorthy Degree College – 2018–2021  
+CGPA: **7.5 / 10**
+
+### Certifications  
+- **Full Stack Web Development** – Newton School  
+- **JavaScript Algorithms & Front End Libraries** – freeCodeCamp  
+- **Data Visualization Certification** – freeCodeCamp  
+
+---
+
+## 🛠 Technologies & Tools
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.0+-blue?logo=typescript)](https://www.typescriptlang.org/)  
@@ -77,7 +71,7 @@ Experienced Full Stack Developer with over 3 years of expertise in building scal
 
 ---
 
-## 📊 GitHub Stats   
+## 📊 GitHub Stats 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kandulanaveennaidu&show_icons=true&theme=radical" width="45%" />  
@@ -86,9 +80,10 @@ Experienced Full Stack Developer with over 3 years of expertise in building scal
 
 ---
 
-## 🤝 Let's Collaborate!   
+## 🤝 Let’s Connect! 
 
-Open to full-stack development opportunities, AI/ML integrations, and open-source contributions.  
+I’m always excited to collaborate on meaningful projects, explore new technologies, or contribute to impactful open-source work.
+
 📧 Email: [kandulanaveennaidu017@gmail.com](mailto:kandulanaveennaidu017@gmail.com)  
 💼 LinkedIn: [Kandula Naveen](https://www.linkedin.com/in/kandulanaveen1/)   
 🌐 Portfolio: [naveen-portfolio-six.vercel.app](https://naveen-portfolio-six.vercel.app) 
