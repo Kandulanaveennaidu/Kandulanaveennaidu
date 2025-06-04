@@ -1,116 +1,94 @@
-<h1 align="center">👋 Hi, I'm Kandula Naveen Naidu</h1>
-<h3 align="center">🚀 Full Stack Developer | AI & Cloud Enthusiast | Scalable Systems Engineer</h3>
+# 👋 Hi, I'm Kandula Naveen  
+## Full Stack Developer | AI Enthusiast | Scalable Systems Specialist  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kandulanaveen1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kandulanaveennaidu017@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://github.com/kandulanaveennaidu">
-    <img src="https://img.shields.io/github/followers/kandulanaveennaidu?label=Follow&style=social" alt="GitHub" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kandulanaveen1/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:kandulanaveennaidu017@gmail.com)  
+[![GitHub](https://img.shields.io/github/followers/kandulanaveennaidu?label=Follow&style=social)](https://github.com/kandulanaveennaidu)  
+🔗 Portfolio: [naveen-portfolio-six.vercel.app](https://naveen-portfolio-six.vercel.app)  
 
 ---
 
-### 💼 Professional Summary
-
-Highly skilled **Full Stack Developer** with over **3 years of experience** designing, developing, and deploying high-performance web applications. Specialized in **JavaScript (ES6+)**, **React.js**, **Node.js**, and **cloud-native architectures** on **AWS & Azure**. Passionate about building **scalable**, **secure**, and **AI-integrated systems** for millions of users with **99.9% uptime** and lightning-fast performance.
-
-- 🔍 SEO & Performance-Focused Development
-- 🤖 AI/ML-Integrated System Architectures
-- 💬 Real-Time Communication (WebRTC, WebSockets)
-- ☁️ Cloud-Native DevOps & Microservices (Docker, CI/CD)
+## 📌 Professional Summary   
+Experienced Full Stack Developer with over 3 years of expertise in building scalable web applications using modern technologies such as React.js, Node.js, Express.js, and cloud platforms like AWS and Azure. Proven track record in designing high-performance systems supporting over 1 million users, maintaining 99.9% uptime, and integrating AI-driven analytics, VoIP, and real-time APIs. Passionate about delivering robust, secure, and user-centric solutions.
 
 ---
 
-### 🔧 Tech Stack
+## 💼 Core Skills  
 
-**Frontend:**
-`React.js` · `Next.js` · `Redux Toolkit` · `TypeScript` · `Tailwind CSS` · `Bootstrap` · `Material-UI`
+### Frontend Development  
+- React.js · Redux · Next.js · TypeScript · JavaScript (ES6+)  
+- HTML5 · CSS3 · Tailwind CSS · Responsive Design  
 
-**Backend:**
-`Node.js` · `Express.js` · `Django` · `RESTful APIs` · `GraphQL`
+### Backend Development  
+- Node.js · Express.js · Django · RESTful APIs · GraphQL  
 
-**Databases:**
-`MongoDB` · `PostgreSQL` · `MySQL` · `Redis`
+### Databases  
+- MongoDB · PostgreSQL · Redis  
 
-**DevOps & Cloud:**
-`Docker` · `AWS (EC2, S3, Lambda)` · `Azure` · `CI/CD (Jenkins, GitHub Actions)`
+### DevOps & Cloud  
+- Docker · Jenkins · CI/CD Pipelines  
+- Amazon Web Services (AWS): EC2 · S3 · Lambda  
+- Microsoft Azure · Serverless Architecture  
 
-**Security:**
-`JWT` · `OAuth 2.0` · `HTTPS/SSL` · `Role-Based Access Control (RBAC)`
-
----
-
-### 🏆 Key Accomplishments
-
-- 🚀 **Omni-Channel Social Platform**: Increased user engagement by **40%** and improved API response time by **30%** using Redis caching.
-- 🗳️ **Election Management System**: Supported **500K+ users** with **real-time data updates** and **99.9% uptime** via Node.js and WebSockets.
-- 📹 **Video Conferencing Tool**: Achieved **200ms latency** for **50K+ concurrent users** with WebRTC and Azure integration.
-- 🔒 **Security Enhancements**: Implemented JWT/OAuth2 authentication and E2E encryption to secure APIs across multi-platform integrations.
+### Security  
+- OAuth 2.0 · JWT · End-to-End Encryption · WebSockets  
 
 ---
 
-### 📚 Education & Certifications
+## 🏆 Key Achievements  
 
-**🎓 Bachelor of Commerce (Accounting)**  
-_Spoorthy Degree College_ – CGPA: **7.5/10**
-
-**🎓 Certifications:**
-- ✅ Full Stack Web Development – *Newton School*
-- ✅ JavaScript Algorithms & Data Structures – *freeCodeCamp*
-- ✅ D3.js & Data Visualization – *freeCodeCamp*
+- **Scalable Omni-Channel Platform**: Built a social media platform that increased user engagement by 40%.  
+- **High-Performance Election Management System**: Served over 500K users with 99.9% uptime during critical election cycles.  
+- **WebRTC Video Conferencing Tool**: Supported 50K+ concurrent users with <200ms latency.  
+- **API Optimization**: Reduced API response time by 30% using Redis caching and load balancing techniques.  
 
 ---
 
-### 📂 Recent Projects
+## 💡 Recent Projects  
 
-| Project | Tech Stack | Key Impact |
-|--------|------------|------------|
-| **Social Media App** | React, Node.js, AWS | +40% engagement, scalable REST APIs |
-| **Election System** | Node.js, Redis, WebSockets | Real-time sync, 99.9% uptime |
-| **Secure Video App** | WebRTC, Azure, JWT | 25% latency drop, E2E encryption |
+| Project Name                  | Technologies Used         | Impact |
+|-------------------------------|---------------------------|--------|
+| Omni-Channel Social Platform  | React, Node.js, AWS       | 40% increase in user engagement; 30% faster API responses |
+| Election Management System    | Node.js, WebSockets, Redis| Maintained 99.9% uptime for 500K+ users |
+| Video Conferencing Tool       | WebRTC, Azure, E2E Encryption | 50K+ users; 25% reduced latency |
 
 ---
 
-### 📈 GitHub Stats
+## 🎓 Education & Certifications  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kandulanaveennaidu&show_icons=true&theme=radical" width="45%" />
+- **Bachelor of Commerce (Accounting)**  
+  Spoorthy Degree College – 7.5/10 GPA  
+
+- **Certifications**  
+  - Full Stack Web Development – Newton School  
+  - JavaScript Algorithms & Front End Libraries – freeCodeCamp  
+  - Data Visualization – freeCodeCamp  
+
+---
+
+## 🛠 Tools & Technologies  
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.0+-blue?logo=typescript)](https://www.typescriptlang.org/)  
+[![React](https://img.shields.io/badge/React-18.0+-61DAFB?logo=react)](https://reactjs.org/)  
+[![Node.js](https://img.shields.io/badge/Node.js-16.0+-339933?logo=node.js)](https://nodejs.org/)  
+[![AWS](https://img.shields.io/badge/AWS-EC2/S3/Lambda-FF9900?logo=amazon-aws)](https://aws.amazon.com/)  
+[![Docker](https://img.shields.io/badge/Docker-3.0+-2496ED?logo=docker)](https://www.docker.com/)  
+
+---
+
+## 📊 GitHub Stats   
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kandulanaveennaidu&show_icons=true&theme=radical" width="45%" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kandulanaveennaidu&layout=compact&theme=radical" width="45%" />
-</p>
+</div>
 
 ---
 
-### 🔍 Tools & Technologies
+## 🤝 Let's Collaborate!   
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-4.0+-blue?logo=typescript" />
-  <img src="https://img.shields.io/badge/React-18.0+-61DAFB?logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-16.0+-339933?logo=node.js" />
-  <img src="https://img.shields.io/badge/Docker-3.0+-2496ED?logo=docker" />
-  <img src="https://img.shields.io/badge/AWS-EC2/S3/Lambda-FF9900?logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/MongoDB-NoSQL-4DB33D?logo=mongodb" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql" />
-</p>
-
----
-
-### 📫 Let’s Collaborate
-
-I’m open to:
-- 🤝 Freelance or full-time opportunities in **Full Stack Development**
-- 🌐 Collaborations on **AI/ML, real-time systems**, or **open-source**
-- 💡 Building innovative, secure, and highly scalable products
-
-📨 **Email:** kandulanaveennaidu017@gmail.com  
-🔗 **LinkedIn:** [Kandula Naveen](https://www.linkedin.com/in/kandulanaveen1/)  
-🌍 **Portfolio:** [naveen-portfolio-six.vercel.app](https://naveen-portfolio-six.vercel.app)
-
----
-
-⭐ *Let’s build something extraordinary together!*
+Open to full-stack development opportunities, AI/ML integrations, and open-source contributions.  
+📧 Email: [kandulanaveennaidu017@gmail.com](mailto:kandulanaveennaidu017@gmail.com)  
+💼 LinkedIn: [Kandula Naveen](https://www.linkedin.com/in/kandulanaveen1/)   
+🌐 Portfolio: [naveen-portfolio-six.vercel.app](https://naveen-portfolio-six.vercel.app) 
